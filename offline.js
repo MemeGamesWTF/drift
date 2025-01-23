@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737632752,
+	"version": 1737633055,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,12 @@
 		"images/bend2-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/drift sound.m4a",
+		"media/drift sound.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
+		"media/bg.m4a",
+		"media/bg.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
