@@ -1,0 +1,29 @@
+﻿{
+	"version": 1737632752,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/redlightgreenlighthowto-sheet0.png",
+		"images/redlightgreenlighthowto-sheet1.png",
+		"images/play-sheet0.png",
+		"images/car-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/bg2-sheet0.png",
+		"images/pilot-sheet0.png",
+		"images/road-sheet0.png",
+		"images/road2-sheet0.png",
+		"images/bend-sheet0.png",
+		"images/failtriggerstraight-sheet0.png",
+		"images/bend2-sheet0.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
